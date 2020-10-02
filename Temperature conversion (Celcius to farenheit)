@@ -6,7 +6,7 @@ class Cels{
 	{
 		
 		Scanner userin = new Scanner(System.in);
-		System.out.println("Enter Temperature in Celsius: ");
+		System.out.println("Enter Temperature in Celsius: "); //enter temp
 		
 		float input =userin.nextFloat();
 		
