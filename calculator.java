@@ -8,7 +8,7 @@ class calculator{
 	int input = s1.nextInt();
 	System.out.println("\nEnter the first number: ");
 	int n1=s1.nextInt();
-	System.out.println("\nEnter the second number: ");
+	System.out.println("\nEnter the second number: "); //enter 2nd number
 	int n2=s1.nextInt();
 	switch(input)
 	{
